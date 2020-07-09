@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Manish and I am a web developer
+### Hi there 👋 I'm Manish
 
 <!--
 **k88manish/k88manish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am web developer at Taskworld, contributing in bulding a cutting edge task managment platform.
+
 - 🔭 I’m currently working on Typescript, NodeJS, ReactJS
 - 🌱 I’m currently learning Getsby
 - 👯 I’m looking to collaborate on some open source project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything on frontend
+- 💬 Ask me about anything
 - 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
